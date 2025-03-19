@@ -139,6 +139,7 @@ a.externo::after{
 
 li.list::before{
     content:'\002714\00A0';
+    font-size: 0.8em;
 }
 
 div{
